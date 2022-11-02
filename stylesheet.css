@@ -1,0 +1,59 @@
+.navbar {
+      margin-bottom: 0;
+}
+
+.wallpaper {
+  position: relative;
+  text-align: center;
+  color: rgb(204, 204, 204);
+  /* font-family: Brush Script MT; */
+  font-family: 'Arizonia';
+  font-size: 22px;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width:100%;
+}
+
+.background1{
+  color:white;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align:center;
+}
+
+.row {background-color:lavender}
+
+.button1{
+	border-radius: 20px;
+	background: rgba(0, 0, 225, );
+}
+
+.footer1 {
+  background-color: rgb(41, 41, 41);
+  padding: 15px;
+  text-align: center;
+  color: rgb(137, 137, 137);
+}
+
+/* #test
+{
+	margin:10px;
+	color:blue;
+}  */
+
+#test1
+{
+	margin-top:10px;
+	margin-bottom:10px; 
+
+}
+
+.about-section{
+  
+}
